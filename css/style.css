@@ -31,6 +31,11 @@ h1{
     color: white;
     background-color:#ff4c68 ;
 }
+
+.imgintro:hover{
+    transform: rotate(  
+        26deg );
+}
 .download{
     margin: 5% 5% 5% 0;
 
@@ -69,5 +74,14 @@ h5{
     padding: 60px 20px ;
     text-align: center;
     line-height: 2.5;
+
+}
+
+.development{
+    margin: 100px auto 100px;
+}
+.imgcarousel{
+
+    padding: 30%;
 
 }
