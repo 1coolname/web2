@@ -37,6 +37,35 @@ h1{
 
 .imgintro{
     transform: rotate(25deg);
+    width:40% ;
+    margin: auto;
+    display: block;
 
 }
 
+.icons{
+    margin: auto;
+    color: #ff4c68;
+
+}
+.icons:hover{
+    color: #e42744;
+}
+
+
+h5{
+    color: gray;
+    font-size: medium;
+}
+
+.padintro{
+    padding: 40px 0px ;
+    margin: auto;
+    display: block;
+}
+.descripicon{
+    padding: 60px 20px ;
+
+    text-align: center;
+    line-height: 2.5;
+}
